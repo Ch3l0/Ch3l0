@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ch3l0
+- 👀 I’m interested in Roblox Scripting
+- 🌱 I’m currently learning Advanced Roblox Exploiting
